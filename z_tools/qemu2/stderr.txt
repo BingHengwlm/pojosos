@@ -1,0 +1,1 @@
+qemu.exe: -std-vga: invalid option
